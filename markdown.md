@@ -1,8 +1,9 @@
 ### Git improvement
 #### Exaple
-+ Readme.txt
-+ sample.c
-> how to embed code\
++ Local repo
++ Remot repo
++ Branch management
+> how to embed code
 >
 ```shell
 mkdir /data/home/githubi
