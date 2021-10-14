@@ -4,5 +4,5 @@
 + sample.c
 > how to embed code\
 >
-....shell
+...shell
 mkdir /data/home/github
